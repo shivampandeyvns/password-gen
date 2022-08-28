@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 600px;
+    margin: 0px auto;
 }
 h1{
     color: white;
@@ -66,7 +67,7 @@ hr{
 #input
 {
     width: 191px;
-    height: 27px;
+    height: 52px;
     justify-content: center;
     padding: 9px 17px 9px 15px;
     align-items: center;
